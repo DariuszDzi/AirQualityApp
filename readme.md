@@ -18,7 +18,7 @@ cd AirQualityApp
 2. Navigate to the directory where AirQualityApp project is located and open it.
 
 #### Set Up the Virtual Environment:
-1. Go to File > Settings (or PyCharm > Preferences on macOS).
+1. Go to File > Settings.
 2. Navigate to Project: AirQualityApp > Python Interpreter.
 3. Click the gear icon and select Add.
 4. Choose New Environment and set the location. Ensure the base interpreter is set to your installed Python version.
