@@ -4,7 +4,7 @@
 This application monitors air quality using data published by Główny Inspektorat Ochrony Środowiska and retrieved via REST API https://powietrze.gios.gov.pl/pjp/content/api.
 ## Prerequisites
 - Python 3.7+
-- PyCharm IDE
+- PyCharm IDE (recommended; PyCharm Community Edition: https://www.jetbrains.com/pycharm/download/?section=windows)
 
 ## Installation and Setup
 
