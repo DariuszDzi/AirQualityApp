@@ -15,7 +15,7 @@ cd AirQualityApp
 ```
 ### Step 2: Set Up the Project in PyCharm
 1. Open PyCharm and select File > Open.
-2. Navigate to the directory where your AirQualityApp project is located and open it.
+2. Navigate to the directory where AirQualityApp project is located and open it.
 
 #### Set Up the Virtual Environment:
 1. Go to File > Settings (or PyCharm > Preferences on macOS).
