@@ -36,6 +36,6 @@ cd AirQualityApp
 2. Select Run 'Python tests in in test...'.
 
 ## Basic functionality
-1. Enter a city to look up measurement station > write either a full name of the city your looking for or first few letters. Initiate by pressing Look Up button.
+1. Enter a city to look up measurement station > type either a full name of the city your looking for or first few letters. Initiate by pressing Look Up button.
 2. Clear Data button > clears all data stored in the app database.
 3. Analyze Data > offers a simple data analysis based on the data stored in the app database. Includes visual data plotting via Plot Data button.
