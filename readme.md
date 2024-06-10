@@ -33,7 +33,7 @@ cd AirQualityApp
 2. Right-click on main_window.py and select Run 'main_window'.
 ## Running the Tests
 1. Right-click on the tests directory in the Project pane.
-2. Select Run 'Unittests in tests'.
+2. Select Run 'Python tests in in test...'.
 
 ## Basic functionality
 1. Enter a city to look up measurement station > write either a full name of the city your looking for or first few letters. Initiate by pressing Look Up button.
